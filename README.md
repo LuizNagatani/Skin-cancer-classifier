@@ -19,7 +19,7 @@ Dataset
 
 Para o projeto foi utilizado o dataset [HAM-10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000), que contém 10000 imagens de tipos diferentes de lesões dermatológicas, criado para um desafio do ISIC (International Skin Imaging Collaboration) em 2018
 
-![dataset kaggle] (Skin-cancer-classifier/dataset kaggle.png)
+![dataset kaggle] (Imagens%20Readme/dataset%20kaggle.png)
 
 Como é possível observar, 67% do dataset é composto por nevos benignos, tornando-o a classe predominante no dataset com 6705 imagens.
 
