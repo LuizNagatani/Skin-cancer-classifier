@@ -44,4 +44,4 @@ Alguns falsos positivos foram encontrados caso a imagem retratasse um melanoma, 
 ## Testes com imagens de fora do dataset
 
 Após realizar testes com o dataset de testes e validação, pedi para um conhecido que estava realizando exames para que pudesse me fornecer as imagens obtidas no laboratório para que eu pudesse realizar testes no modelo.
-![Testes laboratório](https://github.com/LuizNagatani/Skin-cancer-classifier/blob/main/Imagens%20Readme/testes%20laborat%C3%B3rio.png)
+![Testes laboratório](https://github.com/LuizNagatani/Skin-cancer-classifier/blob/main/Imagens%20Readme/predições dermatoscopia.png)
